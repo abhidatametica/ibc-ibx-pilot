@@ -1,0 +1,9 @@
+variable "compute_instance_name" {}
+variable "compute_machine_type" {}
+variable "zone" {}
+variable "compute_engine_network_tags" {}
+variable "compute_subnetwork_name" {}
+//variable "compute_network_ip" {}
+variable "compute_vm_image" {}
+variable "compute_boot_disk_size" {}
+variable "project_name" {}
